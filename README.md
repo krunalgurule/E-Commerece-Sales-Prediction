@@ -12,7 +12,7 @@
 **Frontend: Bootstrap,html,css**  
 **Backend: Django, Python**
 
-**Project Link: [E-commerce Sales Prediction](https://youtu.be/0wViSfEx-cg?si=fCmyTsWLsLmWSZAC)**
+
 
 **Used Libraries: Numpy, Plotly, Sci-kit Learn, Pandas, Joblib, os**
 
